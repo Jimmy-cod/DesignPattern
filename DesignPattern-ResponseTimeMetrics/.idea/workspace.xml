@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cce3301-115c-4420-9c23-6365608bd4d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Interview/CAPCO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../题解Solutions/Sorting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/production/algorithm010/Week01/LC88_merge-sorted-array.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/production/algorithm010/Week01/LC88_merge-sorted-array.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/production/algorithm010/Week02/Amazon_Interview.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/production/algorithm010/Week02/Amazon_Interview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/production/algorithm010/Week02/HashMap总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/production/algorithm010/Week02/HashMap总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week01/LC88_merge-sorted-array.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week01/LC88_merge-sorted-array.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week02/Amazon_Interview.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week02/Amazon_Interview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week02/HashMap总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week02/HashMap总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week02/LC_22_generate_parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week02/LC_22_generate_parentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week04/NOTE.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week04/NOTE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week08/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week08/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week08/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week08/Sort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1gPtfFVKbM2hvOoRv4VEZbmd90s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api-analysis" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cce3301-115c-4420-9c23-6365608bd4d7" name="Default Changelist" comment="" />
+      <created>1598028156822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598028156822</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1598028393215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1598028393215" />
+  </component>
+</project>
